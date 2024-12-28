@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Python Developer
+I am a Python Developer, iam working on:
+some automatisation,
+bots and other.
 
 
 ## 🌐 Socials:
